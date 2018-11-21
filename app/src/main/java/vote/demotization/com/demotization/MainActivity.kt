@@ -8,7 +8,7 @@ import android.webkit.WebViewClient
 class MainActivity : AppCompatActivity() {
 
     var webView: WebView? = null
-    var mainUrl: String = "https://docs.google.com/forms/d/e/1FAIpQLSdAN2rO1z2yON16J-5-rnwd7-HKHWV3HBgTa8sahH2-Hqm6mw/viewform";
+    var mainUrl: String = "https://docs.google.com/forms/d/e/1FAIpQLSc7rQXoTJh02-2ZoCPhAbQXylEgfI8gdT6HGGh1YxP0Hz-C7w/viewform";
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
